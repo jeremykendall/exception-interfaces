@@ -17,6 +17,6 @@
 namespace EI\EdgeCases;
 
 /**
- * ThatsNotSupposedToHappen Exception Interface
+ * WorkingAsDesigned Exception Interface
  */
-interface ThatsNotSupposedToHappen {}
+interface WorkingAsDesigned {}
