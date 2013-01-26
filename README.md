@@ -13,5 +13,17 @@ Exception interfaces for PHP inspired by
 Usage
 -----
 
-Please see the accompanying unit test for an example of usage.  See Ralph
-Schindler's post, linked above, for background.
+Simply create your own custom Exception, extend `\Exception`, and implement one
+of the exception interfaces. Done!
+
+```php
+<?php
+
+namespace Example;
+
+use EI\EdgeCases\ThatsJustSilly;
+
+class RidiculousException extends \Exception implements ThatsJustSilly {}
+```
+
+See Ralph Schindler's post, linked above, for background.
