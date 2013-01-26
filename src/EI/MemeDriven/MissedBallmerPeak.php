@@ -18,5 +18,7 @@ namespace EI\MemeDriven;
 
 /**
  * MissedBallmerPeak Exception Interface
+ *
+ * @link http://xkcd.com/323/
  */
 interface MissedBallmerPeak {}
