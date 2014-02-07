@@ -19,5 +19,4 @@ namespace JeremyKendall\Exception\MemeDriven;
 /**
  * Derp Exception Interface
  */
-interface Derp {}
-
+interface Wat {}
