@@ -4,7 +4,7 @@
  * Exception Interfaces Library
  *
  * @link      http://github.com/jeremykendall/exception-interfaces for the canonical source repository
- * @copyright Copyright (c) 2013 Jeremy Kendall (http://about.me/jeremykendall)
+ * @copyright Copyright (c) 2013-2014 Jeremy Kendall (http://about.me/jeremykendall)
  * @license   http://github.com/jeremykendall/exception-interfaces/blob/master/LICENSE MIT License
  *
  * Inspired by Ralph Schindler, Kent Beck, and John Barton
@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\SubstanceAffectedDeveloper;
+namespace JeremyKendall\Exception\SubstanceAffectedDeveloper;
 
 /**
  * UnderCaffeinated Exception Interface
