@@ -1,0 +1,34 @@
+{
+    "name": "jeremykendall/exception-interfaces",
+    "description": "Exception interfaces inspired by Schindler, Barton, and Beck.",
+    "homepage": "https://github.com/jeremykendall/exception-interfaces",
+    "support": {
+        "issues": "https://github.com/jeremykendall/exception-interfaces/issues",
+        "source": "https://github.com/jeremykendall/exception-interfaces"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeremy Kendall",
+            "homepage": "http://about.me/jeremykendall",
+            "role": "Developer"
+        }
+    ],
+    "keywords": [
+        "OOP",
+        "Exceptions",
+        "Interfaces",
+        "whimsy"
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "JeremyKendall\\Exception\\": "src/"
+        }
+    }
+}
