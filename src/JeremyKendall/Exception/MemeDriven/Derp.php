@@ -21,4 +21,4 @@ namespace JeremyKendall\Exception\MemeDriven;
  *
  * @link https://www.destroyallsoftware.com/talks/wat
  */
-interface Wat {}
+interface Derp {}
