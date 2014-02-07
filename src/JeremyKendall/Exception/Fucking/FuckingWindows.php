@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\Fucking;
+namespace JeremyKendall\Exception\Fucking;
 
 /**
  * FuckingWindows Exception Interface

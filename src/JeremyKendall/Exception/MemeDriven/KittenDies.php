@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\MemeDriven;
+namespace JeremyKendall\Exception\MemeDriven;
 
 /**
  * KittenDies Exception Interface

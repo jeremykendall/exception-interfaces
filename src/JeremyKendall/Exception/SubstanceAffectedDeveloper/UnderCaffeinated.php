@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\SubstanceAffectedDeveloper;
+namespace JeremyKendall\Exception\SubstanceAffectedDeveloper;
 
 /**
  * UnderCaffeinated Exception Interface

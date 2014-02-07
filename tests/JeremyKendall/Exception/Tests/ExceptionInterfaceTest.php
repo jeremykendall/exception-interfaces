@@ -1,14 +1,14 @@
 <?php
 
-namespace EI\Tests;
+namespace JeremyKendall\Exception\Tests;
 
-use EI\EdgeCases\ThatsJustSilly;
+use JeremyKendall\Exception\EdgeCases\ThatsJustSilly;
 
 class EITest extends \PHPUnit_Framework_TestCase
 {
     public function testThatsJustSillyException() 
     {
-        $this->setExpectedException('\EI\EdgeCases\ThatsJustSilly');
+        $this->setExpectedException('\JeremyKendall\Exception\EdgeCases\ThatsJustSilly');
         throw new ExampleException();
     }
 

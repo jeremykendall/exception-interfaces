@@ -1,7 +1,7 @@
 <?php
 
-namespace EI\Tests;
+namespace JeremyKendall\Exception\Tests;
 
-use EI\EdgeCases\ThatsJustSilly;
+use JeremyKendall\Exception\EdgeCases\ThatsJustSilly;
 
 class ExampleException extends \Exception implements ThatsJustSilly {}

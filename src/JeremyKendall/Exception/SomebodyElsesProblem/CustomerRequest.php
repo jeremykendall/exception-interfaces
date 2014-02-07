@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\SomebodyElsesProblem;
+namespace JeremyKendall\Exception\SomebodyElsesProblem;
 
 /**
  * CustomerRequest Exception Interface

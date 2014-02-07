@@ -14,7 +14,7 @@
  * @link https://github.com/joho/7XX-rfc
  */
 
-namespace EI\EdgeCases;
+namespace JeremyKendall\Exception\EdgeCases;
 
 /**
  * Unpossible Exception Interface
