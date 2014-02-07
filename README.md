@@ -17,7 +17,7 @@ of the exception interfaces. Done!
 
 namespace Example;
 
-use EI\EdgeCases\ThatsJustSilly;
+use JeremyKendall\Exception\EdgeCases\ThatsJustSilly;
 
 class RidiculousException extends \Exception implements ThatsJustSilly {}
 ```
